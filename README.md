@@ -11,17 +11,6 @@
 
 ![Contact sheet](docs/contact-sheet.png)
 
-## 使用方式
-
-可以把这个文件夹复制到 Codex 的 pets 目录中使用；如果想分享到 Petdex，也可以上传这个文件夹或 ZIP 包。
-
-桌宠包的基础结构如下：
-
-```text
-pet.json
-spritesheet.webp
-```
-
 ## 声明
 
 这是一个非官方同人作品，与网易、Everstone Studio 以及 *Where Winds Meet* / 《燕云十六声》官方团队无隶属、授权、背书或赞助关系。
